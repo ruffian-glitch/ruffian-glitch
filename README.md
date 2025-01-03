@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @ruffian-glitch
-- 👀 I’m interested in data science and analytics
-- 🌱 I’m currently learning data analytics
+Aspiring Data Analyst | Proficient in SQL, Excel, Power BI | Learning Advanced Python
 
+    📜 Certified: Google Data Analytics Professional Certificate, Google AI Essentials
+    🛠️ Practical Experience:
+        Completed a virtual internship on Power BI with PwC Switzerland (via Forage)
+        Developed data visualization and analytics projects showcasing insights and decision-making tools
+    🎯 Skillset: MS SQL, Excel, Power BI, and Python (in progress)
+    🌟 Career Goal: Seeking internship opportunities in data analytics to apply and expand my analytical expertise.
 
-<!---
-ruffian-glitch/ruffian-glitch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Let’s connect and collaborate on impactful data-driven projects!
